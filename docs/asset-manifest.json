@@ -3,7 +3,7 @@
     "main.css": "/static/css/main.36391dfc.css",
     "main.js": "/static/js/main.e30ddc2e.js",
     "static/js/787.8ed7bd96.chunk.js": "/static/js/787.8ed7bd96.chunk.js",
-    "static/media/breakingbad-bg.jpg": "/static/media/breakingbad-bg.5e06f7bd781b1a0f8974.jpg",
+    "static/media/breakingbad-bg.jpg": "./static/media/breakingbad-bg.5e06f7bd781b1a0f8974.jpg",
     "index.html": "/index.html",
     "main.36391dfc.css.map": "/static/css/main.36391dfc.css.map",
     "main.e30ddc2e.js.map": "/static/js/main.e30ddc2e.js.map",
